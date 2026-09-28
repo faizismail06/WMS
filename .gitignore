@@ -37,3 +37,11 @@ temp/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local documentation (kept on disk, excluded from Git)
+/doc/
+/docs/
+/README.md
+/PRD*.md
+/DOKUMENTASI*.md
+/VALIDASI*.md
